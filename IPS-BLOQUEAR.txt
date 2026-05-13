@@ -73,11 +73,3 @@
 143.42.0.0/16     # Akamai/Linode
 172.110.0.0/16    # Akamai/Linode
 172.232.0.0/16    # Akamai/Linode
-
-# --- BLOQUEIOS BRASILEIROS CIRURGICOS (AGRESSORES PERSISTENTES) ---
-
-
-
-
-
-
