@@ -62,6 +62,8 @@
 208.0.0.0/4       # EUA Geral
 209.38.0.0/16     # DigitalOcean (Scanner SSH)
 216.0.0.0/8       # EUA Geral
+107.128.0.0/10    # RackLayer/ColoCrossing (Agressor SSH)
+167.172.0.0/16    # DigitalOcean (Agressor SSH detectado agora)
 
 # --- MIDDLE EAST / AFRICA / OUTROS ---
 30.0.0.0/8        # Redes Militares/Hosting
