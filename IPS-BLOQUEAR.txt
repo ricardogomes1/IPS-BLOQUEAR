@@ -30,9 +30,11 @@
 46.0.0.0/8        # Europa/Russia
 62.0.0.0/8        # Europa Geral
 62.141.0.0/16     # Alemanha (Scanner Sipvicious)
+79.124.62.0/24    # Bulgaria (Agressor MySQL detectado)
 82.0.0.0/8        # Europa Geral
 85.0.0.0/8        # Europa Geral
 89.0.0.0/8        # Europa Geral
+176.65.132.0/24   # Letonia (Agressor SSH detectado)
 185.0.0.0/8       # Europa/Russia
 194.0.0.0/7       # Europa Geral
 212.0.0.0/7       # Europa Geral
@@ -54,24 +56,29 @@
 48.0.0.0/5        # EUA Geral
 56.0.0.0/5        # EUA Geral
 64.0.0.0/3        # EUA Geral (DigitalOcean/Cloudflare)
+66.240.0.0/16     # CyberLynx (Scanner Oracle SQL detectado)
 69.5.169.0/24     # Scanner MySQL
 96.0.0.0/4        # EUA Geral
 104.0.0.0/8       # EUA/Cloudflare
+107.128.0.0/10    # RackLayer/ColoCrossing (Agressor SSH)
+167.172.0.0/16    # DigitalOcean (Agressor SSH detectado)
 184.22.0.0/16     # Scanner RDP Internacional
 204.0.0.0/6       # EUA Geral
+205.210.0.0/16    # Redes de Hosting EUA (Scanner Oracle SQL)
 208.0.0.0/4       # EUA Geral
 209.38.0.0/16     # DigitalOcean (Scanner SSH)
 216.0.0.0/8       # EUA Geral
-107.128.0.0/10    # RackLayer/ColoCrossing (Agressor SSH)
-167.172.0.0/16    # DigitalOcean (Agressor SSH detectado agora)
 
 # --- MIDDLE EAST / AFRICA / OUTROS ---
 30.0.0.0/8        # Redes Militares/Hosting
+41.93.0.0/16      # Africa/Nigeria (Scanner SSH detectado)
 102.0.0.0/8       # Africa
 192.0.0.0/7       # Redes Variadas
+197.31.0.0/16     # Africa/Egito (Agressor RDP detectado)
 202.0.0.0/7       # Asia/Oceania
 
 # --- CLOUD HOSTING ESPECIFICO (LINODE/AKAMAI) ---
+45.79.0.0/16      # Linode (Agressor Oracle SQL detectado)
 143.42.0.0/16     # Akamai/Linode
 172.110.0.0/16    # Akamai/Linode
 172.232.0.0/16    # Akamai/Linode
