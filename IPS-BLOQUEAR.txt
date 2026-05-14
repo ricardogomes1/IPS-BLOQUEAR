@@ -22,14 +22,12 @@
 183.0.0.0/8       # Asia/Coreia
 218.0.0.0/7       # Asia Geral
 220.0.0.0/6       # Asia Geral
-36.93.0.0/16      # Indonésia (Agressor SSH detectado agora)
-220.154.0.0/16    # Ásia Geral (Agressor SSH detectado agora)
 
 # --- EUROPA / RUSSIA / LESTE EUROPEU ---
 2.0.0.0/7         # Europa Geral
 5.0.0.0/8         # Europa/Russia
 31.0.0.0/8        # Europa/Russia
-45.156.0.0/16     # Scanner MySQL Europeu (NOVO)
+45.156.0.0/16     # Scanner MySQL Europeu
 46.0.0.0/8        # Europa/Russia
 62.0.0.0/8        # Europa Geral
 62.141.0.0/16     # Alemanha (Scanner Sipvicious)
@@ -37,11 +35,11 @@
 82.0.0.0/8        # Europa Geral
 85.0.0.0/8        # Europa Geral
 89.0.0.0/8        # Europa Geral
+89.37.0.0/16      # Romania (Scanner MSSQL detectado agora)
 176.65.132.0/24   # Letonia (Agressor SSH detectado)
 185.0.0.0/8       # Europa/Russia
 194.0.0.0/7       # Europa Geral
 212.0.0.0/7       # Europa Geral
-89.37.0.0/16      # Romênia (Scanner MSSQL detectado)
 
 # --- EUA / CANADA / DATA CENTERS ---
 3.131.0.0/16      # AWS Amazon (Scanner MSSQL)
@@ -50,6 +48,7 @@
 12.0.0.0/6        # EUA Geral
 15.0.0.0/8        # EUA Geral
 16.0.0.0/5        # EUA Geral
+18.221.0.0/16     # AWS Amazon (Scanner MSSQL detectado agora)
 20.83.0.0/16      # Microsoft Azure (Scanner Postgres)
 24.0.0.0/6        # EUA Geral
 28.0.0.0/7        # EUA Geral
@@ -72,9 +71,8 @@
 208.0.0.0/4       # EUA Geral
 209.38.0.0/16     # DigitalOcean (Scanner SSH)
 216.0.0.0/8       # EUA Geral
-18.221.0.0/16     # AWS Amazon (Scanner MSSQL detectado)
 
-# --- LATAM (AMERICA LATINA EXTRANGEIRA) ---
+# --- LATAM (AMERICA LATINA ESTRANGEIRA) ---
 200.125.0.0/16    # Argentina (Agressor RDP - Telecom)
 
 # --- MIDDLE EAST / AFRICA / OUTROS ---
