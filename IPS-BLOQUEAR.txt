@@ -27,6 +27,7 @@
 2.0.0.0/7         # Europa Geral
 5.0.0.0/8         # Europa/Russia
 31.0.0.0/8        # Europa/Russia
+45.156.0.0/16     # Scanner MySQL Europeu (NOVO)
 46.0.0.0/8        # Europa/Russia
 62.0.0.0/8        # Europa Geral
 62.141.0.0/16     # Alemanha (Scanner Sipvicious)
@@ -38,7 +39,6 @@
 185.0.0.0/8       # Europa/Russia
 194.0.0.0/7       # Europa Geral
 212.0.0.0/7       # Europa Geral
-45.156.0.0/16     # Scanner MySQL Europeu
 
 # --- EUA / CANADA / DATA CENTERS ---
 3.131.0.0/16      # AWS Amazon (Scanner MSSQL)
@@ -69,6 +69,9 @@
 208.0.0.0/4       # EUA Geral
 209.38.0.0/16     # DigitalOcean (Scanner SSH)
 216.0.0.0/8       # EUA Geral
+
+# --- LATAM (AMERICA LATINA EXTRANGEIRA) ---
+200.125.0.0/16    # Argentina (Agressor RDP - Telecom)
 
 # --- MIDDLE EAST / AFRICA / OUTROS ---
 30.0.0.0/8        # Redes Militares/Hosting
