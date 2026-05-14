@@ -39,6 +39,7 @@
 185.0.0.0/8       # Europa/Russia
 194.0.0.0/7       # Europa Geral
 212.0.0.0/7       # Europa Geral
+89.37.0.0/16      # Romênia (Scanner MSSQL detectado)
 
 # --- EUA / CANADA / DATA CENTERS ---
 3.131.0.0/16      # AWS Amazon (Scanner MSSQL)
@@ -69,6 +70,7 @@
 208.0.0.0/4       # EUA Geral
 209.38.0.0/16     # DigitalOcean (Scanner SSH)
 216.0.0.0/8       # EUA Geral
+18.221.0.0/16     # AWS Amazon (Scanner MSSQL detectado)
 
 # --- LATAM (AMERICA LATINA EXTRANGEIRA) ---
 200.125.0.0/16    # Argentina (Agressor RDP - Telecom)
