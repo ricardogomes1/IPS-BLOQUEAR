@@ -22,6 +22,8 @@
 183.0.0.0/8       # Asia/Coreia
 218.0.0.0/7       # Asia Geral
 220.0.0.0/6       # Asia Geral
+36.93.0.0/16      # Indonésia (Agressor SSH detectado agora)
+220.154.0.0/16    # Ásia Geral (Agressor SSH detectado agora)
 
 # --- EUROPA / RUSSIA / LESTE EUROPEU ---
 2.0.0.0/7         # Europa Geral
