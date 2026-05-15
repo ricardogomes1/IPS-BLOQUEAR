@@ -26,7 +26,10 @@
 # --- EUROPA / RUSSIA / LESTE EUROPEU ---
 2.0.0.0/7         # Europa Geral
 5.0.0.0/8         # Europa/Russia
+5.188.206.0/24    # Russia (Scanner Postgres detectado)
 31.0.0.0/8        # Europa/Russia
+45.142.193.0/24   # Russia (Scanner MSSQL detectado)
+45.153.34.0/24    # Europa (Scanner MySQL detectado)
 45.156.0.0/16     # Scanner MySQL Europeu
 46.0.0.0/8        # Europa/Russia
 62.0.0.0/8        # Europa Geral
@@ -34,10 +37,15 @@
 79.124.62.0/24    # Bulgaria (Agressor MySQL detectado)
 82.0.0.0/8        # Europa Geral
 85.0.0.0/8        # Europa Geral
+85.217.0.0/16     # Europa Geral (Scanner SQL variado)
 89.0.0.0/8        # Europa Geral
-89.37.0.0/16      # Romania (Scanner MSSQL detectado agora)
+89.37.0.0/16      # Romania (Scanner MSSQL detectado)
+89.248.163.0/24   # Holanda (Scanner Postgres detectado)
+152.89.218.0/24   # Europa (Scanner Postgres detectado)
 176.65.132.0/24   # Letonia (Agressor SSH detectado)
 185.0.0.0/8       # Europa/Russia
+193.32.160.0/22   # Europa (Scanner MySQL detectado)
+193.163.125.0/24  # Europa (Scanner MSSQL detectado)
 194.0.0.0/7       # Europa Geral
 212.0.0.0/7       # Europa Geral
 
@@ -48,7 +56,7 @@
 12.0.0.0/6        # EUA Geral
 15.0.0.0/8        # EUA Geral
 16.0.0.0/5        # EUA Geral
-18.221.0.0/16     # AWS Amazon (Scanner MSSQL detectado agora)
+18.221.0.0/16     # AWS Amazon (Scanner MSSQL detectado)
 20.83.0.0/16      # Microsoft Azure (Scanner Postgres)
 24.0.0.0/6        # EUA Geral
 28.0.0.0/7        # EUA Geral
