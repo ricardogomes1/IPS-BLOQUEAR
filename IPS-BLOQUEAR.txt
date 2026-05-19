@@ -48,6 +48,10 @@
 193.163.125.0/24  # Europa (Scanner MSSQL detectado)
 194.0.0.0/7       # Europa Geral
 212.0.0.0/7       # Europa Geral
+62.171.0.0/16     # Alemanha/Contabo (Scanner Postgres)
+185.107.80.0/24   # França (Scanner Postgres)
+213.209.0.0/16    # Alemanha (Scanner Postgres)
+86.54.0.0/16      # Polonia (Scanner HID Port)
 
 # --- EUA / CANADA / DATA CENTERS ---
 3.131.0.0/16      # AWS Amazon (Scanner MSSQL)
@@ -79,6 +83,8 @@
 208.0.0.0/4       # EUA Geral
 209.38.0.0/16     # DigitalOcean (Scanner SSH)
 216.0.0.0/8       # EUA Geral
+147.185.0.0/16    # EUA/Hosting (Agressor RDP persistente)
+184.105.0.0/16    # EUA/Hurricane (Scanner Oracle SQL)
 
 # --- LATAM (AMERICA LATINA ESTRANGEIRA) ---
 200.125.0.0/16    # Argentina (Agressor RDP - Telecom)
@@ -90,6 +96,7 @@
 192.0.0.0/7       # Redes Variadas
 197.31.0.0/16     # Africa/Egito (Agressor RDP detectado)
 202.0.0.0/7       # Asia/Oceania
+103.123.226.0/24  # Australia (Scanner SIP)
 
 # --- CLOUD HOSTING ESPECIFICO (LINODE/AKAMAI) ---
 45.79.0.0/16      # Linode (Agressor Oracle SQL detectado)
